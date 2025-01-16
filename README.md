@@ -1,6 +1,6 @@
 # Basic Usage of CLIP-GradCAM
 
-This project implements a GradCAM method based on the CLIP model. It is inspired by the official code: [CLIP-GradCAM Example](https://github.com/jacobgil/pytorch-grad-cam/blob/master/usage_examples/clip_example.py).
+This  repo implements a GradCAM method based on the CLIP model. It is inspired by the official code: [CLIP-GradCAM Example](https://github.com/jacobgil/pytorch-grad-cam/blob/master/usage_examples/clip_example.py).
 
 ## Prerequisites
 
